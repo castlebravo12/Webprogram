@@ -1,0 +1,24 @@
+USN,NAME
+{
+color: red;
+font-size: 14pt;
+}
+COLLEGE,BRANCH,YEAR
+{
+color: black;
+font-size: 20pt;
+}
+EMAILID
+{
+color: blue;
+font-style: italic;
+}
+STUDENT
+{
+display: block;
+margin-top: 10px;
+}
+heading
+{
+display : block;
+}
